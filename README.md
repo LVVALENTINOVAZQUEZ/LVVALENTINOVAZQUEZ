@@ -31,7 +31,7 @@ Entre otras herramientas que utilizo, también están figma y Canva.
 ***
 ***No dudes en contactarme!***
 
-**Linkedin:**
-https://www.linkedin.com/in/lorenzo-valentino-v%C3%A1zquez-a11870219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb7OM0wP5SeefyLE7tQnBEw%3D%3D
+[LinkedIn](https://www.linkedin.com/in/lorenzo-valentino-v%C3%A1zquez-a11870219)
+
 
 
