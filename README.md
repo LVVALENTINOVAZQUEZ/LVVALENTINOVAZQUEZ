@@ -1,16 +1,36 @@
-## Hi there 👋
+Hola! Mi nombre es Lorenzo Valentino Vázquez
 
-<!--
-**LVVALENTINOVAZQUEZ/LVVALENTINOVAZQUEZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¿Quién soy?
 
-Here are some ideas to get you started:
+Soy un Programador Fullstack orientado en back-end.
+Hace poco me ha interesado en el mundo de la programación, por eso mismo incursioné en el bootcamp de henry para poder adquirir todos los conocimientos que hoy me han permitido ser un programador Full stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¿Qué hago?
+
+Actualmente, me encuentro en la realización de proyectos que me permiten solidificar los conocimientos adquiridos, para avanzar en mi formación como programador. Siempre, aprendiendo nuevas tecnologías para poder integrarlas haciendo el trabajo más fácil y útil.
+
+
+¿A dónde me dirijo?
+
+Mi objetivo es poder seguir aprendiendo sobre programación, para poder serle útil a las empresas que quieran mi trabajo, y poder impactar de manera positiva en los usuarios que vayan a utilizar mis trabajos.
+
+¿Qué tecnologías uso?
+El Bootcamp de Henry me ha servido para poder aprender de manera eficaz las tecnologías más usadas en la actualidad, siendo las siguientes:
+
+.JavaScript
+.React
+.Node.js
+.Express
+.Git
+.PostgreSQL
+
+Además de las básicas herramientas como HTML y Css.
+
+Entre otras herramientas que utilizo, también están figma y Canva.
+
+No dudes en contactarme!
+
+Linkedin:
+https://www.linkedin.com/in/lorenzo-valentino-v%C3%A1zquez-a11870219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb7OM0wP5SeefyLE7tQnBEw%3D%3D
+
+
