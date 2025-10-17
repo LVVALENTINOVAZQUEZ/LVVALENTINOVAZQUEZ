@@ -34,23 +34,46 @@ Entre otras herramientas que utilizo, también están figma y Canva.
 [LinkedIn](https://www.linkedin.com/in/lorenzo-valentino-v%C3%A1zquez-a11870219)
 
 
-
 ## 📂 Proyectos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=proyectoM0&theme=default)](https://github.com/LVVALENTINOVAZQUEZ/proyectoM0)  
-*Página web enfocada en seguridad: monitoreo de actividades sospechosas, gestión de usuarios y caja fuerte.*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=ProyectoM1&theme=default)](https://github.com/LVVALENTINOVAZQUEZ/ProyectoM1)  
-*Página web simple con información personal distribuida en secciones.*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=ProyectoM2&theme=default)](https://github.com/LVVALENTINOVAZQUEZ/ProyectoM2)  
-*Aplicación web para buscar películas y ver detalles de cada una.*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=ProyectoM3&theme=default)](https://github.com/LVVALENTINOVAZQUEZ/ProyectoM3)  
-*Aplicación web para gestión de turnos, con historias de usuario y diagramas.*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=Proyecto4&theme=default)](https://github.com/LVVALENTINOVAZQUEZ/Proyecto4)  
-*E-commerce con registro, login y carrito de compras para adquirir productos.*
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/LVVALENTINOVAZQUEZ/proyectoM0">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=proyectoM0&theme=default" />
+      </a>
+      <p><em>Página web enfocada en seguridad: monitoreo de actividades y gestión de usuarios.</em></p>
+    </td>
+    <td>
+      <a href="https://github.com/LVVALENTINOVAZQUEZ/ProyectoM1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=ProyectoM1&theme=default" />
+      </a>
+      <p><em>Página web simple con información de usuario distribuida en secciones.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/LVVALENTINOVAZQUEZ/ProyectoM2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=ProyectoM2&theme=default" />
+      </a>
+      <p><em>Aplicación web para buscar películas y ver detalles de cada una.</em></p>
+    </td>
+    <td>
+      <a href="https://github.com/LVVALENTINOVAZQUEZ/ProyectoM3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=ProyectoM3&theme=default" />
+      </a>
+      <p><em>Aplicación web para gestión de turnos y reservas.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/LVVALENTINOVAZQUEZ/Proyecto4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=Proyecto4&theme=default" />
+      </a>
+      <p><em>E-commerce con registro, login y carrito de compras.</em></p>
+    </td>
+  </tr>
+</table>
 
 
 
