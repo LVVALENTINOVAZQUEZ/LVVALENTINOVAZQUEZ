@@ -35,3 +35,22 @@ Entre otras herramientas que utilizo, también están figma y Canva.
 
 
 
+## 📂 Proyectos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=proyectoM0&theme=default)](https://github.com/LVVALENTINOVAZQUEZ/proyectoM0)  
+*Página web enfocada en seguridad: monitoreo de actividades sospechosas, gestión de usuarios y caja fuerte.*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=ProyectoM1&theme=default)](https://github.com/LVVALENTINOVAZQUEZ/ProyectoM1)  
+*Página web simple con información personal distribuida en secciones.*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=ProyectoM2&theme=default)](https://github.com/LVVALENTINOVAZQUEZ/ProyectoM2)  
+*Aplicación web para buscar películas y ver detalles de cada una.*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=ProyectoM3&theme=default)](https://github.com/LVVALENTINOVAZQUEZ/ProyectoM3)  
+*Aplicación web para gestión de turnos, con historias de usuario y diagramas.*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LVVALENTINOVAZQUEZ&repo=Proyecto4&theme=default)](https://github.com/LVVALENTINOVAZQUEZ/Proyecto4)  
+*E-commerce con registro, login y carrito de compras para adquirir productos.*
+
+
+
