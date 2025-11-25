@@ -6,6 +6,8 @@
 
 📄 [Descargar mi CV (Currículum Vitae - Backend Developer)](https://github.com/LVVALENTINOVAZQUEZ/LVVALENTINOVAZQUEZ/blob/main/Lorenzo%20Valentino%20V%C3%A1zquez%20-%20Jr.%20Full%20Stack%20developer.pdf)
 
+
+
 **¿Quién soy?**
 
 Soy un Programador Fullstack orientado en back-end.
