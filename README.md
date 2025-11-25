@@ -1,5 +1,8 @@
 # **Hola! Mi nombre es Lorenzo Valentino Vázquez**
 
+**Backend Developer** | React · Nest.js · TypeScript
+📍 San Pedro - Buenos Aires, Argentina
+
 **¿Quién soy?**
 
 Soy un Programador Fullstack orientado en back-end.
@@ -32,5 +35,7 @@ Entre otras herramientas que utilizo, también están figma y Canva.
 ***No dudes en contactarme!***
 
 [LinkedIn](https://www.linkedin.com/in/lorenzo-valentino-v%C3%A1zquez-a11870219)
+
+📫 Email:valen3601@outlook.com
 
 
