@@ -1,7 +1,10 @@
 # **Hola! Mi nombre es Lorenzo Valentino Vázquez**
 
 **Backend Developer** | Node.js - NestJS - PostgreSQL - Docker
+
 📍 San Pedro - Buenos Aires, Argentina
+
+📄 [Descargar mi CV (Currículum Vitae - Backend Developer)](https://github.com/valentino-dev/valentino-dev/blob/main/CV-Lorenzo-Valentino.pdf)
 
 **¿Quién soy?**
 
